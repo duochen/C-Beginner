@@ -1,0 +1,14 @@
+Requirement:
+Define an int array called myArray and initialize it with 1, 2, 3, 4.
+Print out each element in array on the serial monitor every three seconds.
+
+Sample Result:
+1
+2
+3
+4
+1
+2
+3
+4
+...

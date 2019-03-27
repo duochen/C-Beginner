@@ -1,2 +1,5 @@
 Requirement:
-1. Print "Hello, world!" on the serial monitor every one second.
+Print "Hello, world!" on the serial monitor every one second.
+
+Sample Result:
+Hello world!
