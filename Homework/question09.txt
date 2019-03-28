@@ -1,0 +1,6 @@
+Requirement:
+Write a function called square which take a float argument 
+and return the sqaure result. Print out the result on the serial monitor.
+
+Hint:
+float square(float x)
