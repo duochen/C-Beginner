@@ -1,0 +1,3 @@
+Requirement:
+Create an integer array with 5 elements: 10, 20, 30, 40, 50.
+Use for statement to print each element in the array.
