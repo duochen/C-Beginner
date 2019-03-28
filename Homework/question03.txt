@@ -1,0 +1,8 @@
+Requirement:
+Define a constant called pi for a floating number which is 3.14.
+Use it to calcualte the area of the circle. The radius of the circle is 6.
+Print the result on the serial monitor only once.
+
+Result:
+113.04
+
