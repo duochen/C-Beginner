@@ -1,0 +1,8 @@
+Requirement:
+Floating-point numbers are used for values expressed with 
+decimal points (this is the way to represent fractional values).
+You want to calculate and compare these values in your sketch.
+
+Hint:
+Intialized a float value to 1.1. It repeated reduces the value by 
+0.1 until the value is 0.
