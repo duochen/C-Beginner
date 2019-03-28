@@ -1,0 +1,3 @@
+Requirement:
+Use do-while statement to generate 10 random numbers every one second. 
+The random numbers must be less than 100.
