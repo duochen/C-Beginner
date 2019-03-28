@@ -25,8 +25,8 @@ void setup() {
   Serial.print(" is ");
   Serial.print(text1.length());
   Serial.println(" characters long.");
-
-  Serial.print("text2 is ");
+  Serial.print(text2);
+  Serial.print(" is ");
   Serial.print(text2.length());
   Serial.println(" characters long.");
 
