@@ -1,0 +1,8 @@
+Requirement:
+Use String to manipulate the texts. There are
+two texts: 
+text1: "This string"
+text2: " has more text"
+
+1. Print the lengths of text1 and text2 on the serial monitor
+2. Append the contents of text1 to the end of text1.
