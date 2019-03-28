@@ -1,0 +1,21 @@
+Requirement:
+Prints out a text string - "this is a test" one character at a time.
+
+Hint:
+The sizeof operator returns the number of bytes in a variable type, or the number of bytes occupied by an array.
+
+Result:
+0 = t
+1 = h
+2 = i
+3 = s
+4 =  
+5 = i
+6 = s
+7 =  
+8 = a
+9 =  
+10 = t
+11 = e
+12 = s
+13 = t
