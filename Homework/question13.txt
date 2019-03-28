@@ -1,0 +1,11 @@
+Requirement:
+You have a string that contains 3 pieces of data
+seprated by commas: "Peter,Paul,Mary". You want to
+split the string so that you can print each invidal 
+on the serial monitor.
+
+Result:
+Peter,Paul,Mary
+Peter
+Paul
+Mary
