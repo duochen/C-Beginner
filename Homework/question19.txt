@@ -1,0 +1,8 @@
+Requirement:
+Write a program to randomly generate two integers and implement a function called
+swap() to swap the values by using global variables. Print out the values of the 
+variables before swapping and after swapping.
+
+Sample Result:
+The value of x and y before swapping are: 7,3
+The value of x and y after swapping are: 3,7
