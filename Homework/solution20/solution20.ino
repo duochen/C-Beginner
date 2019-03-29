@@ -1,6 +1,6 @@
 /*
  * Description:
- *  Use for statement to print out the following numbers: 0, 2, 4, 6, 8 on the serial monitor.
+ *  Use for statement to print out the following numbers: 10, 8, 6, 4, 2 on the serial monitor.
  * 
  * Author:
  *  Duo Chen
@@ -11,7 +11,7 @@
 
 void setup() {
   Serial.begin(9600);
-  for (int i = 0; i < 10; i = i + 2) {
+  for (int i = 10; i > 0; i = i - 2) {
     Serial.println(i);
   }
 }
