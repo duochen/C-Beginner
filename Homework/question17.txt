@@ -1,0 +1,7 @@
+Requirement:
+Modify Blink sketch from Arduino IDE: File | Examples | 01.Basics with a function 
+called blink to determines how many times the LED will flash.
+
+Hint:
+void blink(int count)
+where count paramemter will decide the number of times LED will blink
