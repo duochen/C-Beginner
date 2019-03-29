@@ -1,3 +1,16 @@
+/*
+ * Description:
+ *  Write a program to randomly generate two integers and implement a function called
+ *  swap() to swap the values by using global variables. Print out the values of the 
+ *  variables before swapping and after swapping.
+ * 
+ * Author:
+ *  Duo Chen
+ * 
+ * Date:
+ *  3/29/2019
+ */
+
 int x;  // x is a global variable 
 int y;  // y is a global variable
 

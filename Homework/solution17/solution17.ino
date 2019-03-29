@@ -1,3 +1,15 @@
+/*
+ * Description:
+ *  Modify Blink sketch from Arduino IDE: File | Examples | 01.Basics with a function 
+ *  called blink to determines how many times the LED will flash.
+ * 
+ * Author:
+ *  Duo Chen
+ * 
+ * Date:
+ *  3/29/2019
+ */
+
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(LED_BUILTIN, OUTPUT);
