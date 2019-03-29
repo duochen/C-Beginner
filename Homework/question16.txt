@@ -1,0 +1,4 @@
+Requirement:
+Open Blink sketch from Arduino IDE: File | Examples | 01.Basics, move all of the code inside 
+loop() function into a separate function called blink() and call blink() inside loop() function.
+Verify the blink program's execution: the led light turns on and off every one second.

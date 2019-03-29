@@ -11,6 +11,7 @@
  * Date:
  *  3/28/2019
  */
+
 String text = "Peter,Paul,Mary";  // an exmple string
 String message = text;            // holds text not yet split
 int commaPosition;                // the position of the next comma in the string
