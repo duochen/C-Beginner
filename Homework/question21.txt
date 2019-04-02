@@ -1,0 +1,5 @@
+Requirement:
+From the serial monitor, send the character 1, 
+the LED 13 blinks once, send the character 2,
+the LED 13 blinks two times. Send any other character,
+nothing will happen.

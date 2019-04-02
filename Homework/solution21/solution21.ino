@@ -1,3 +1,16 @@
+/*
+ * Description:
+ *  From the serial monitor, send the character 1, 
+ *  the LED 13 blinks once, send the character 2,
+ *  the LED 13 blinks two times. Send any other character,
+ *  nothing will happen.
+ * 
+ * Author:
+ *  Duo Chen
+ * 
+ * Date:
+ *  3/29/2019
+ */
 
 void setup() {
   Serial.begin(9600);
@@ -17,18 +30,16 @@ void loop() {
         blink();
         blink();
         break;
-      default:
-        Serial.print(ch);
-        Serial.println(" was recived but not expected");
-        break;
     }
   }
 }
 
 void blink()
 {
+  Serial.println("Turn LED Light On");
   digitalWrite(LED_BUILTIN, HIGH);
-  delay(500);
+  delay(1000);
+  Serial.println("Turn LED Light Off");  
   digitalWrite(LED_BUILTIN, LOW);
-  delay(500);  
+  delay(1000);  
 }
